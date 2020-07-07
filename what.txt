@@ -1,0 +1,2 @@
+- we are making a blog website
+- since we are using multile pages, so we'll use "react-router-dom" 

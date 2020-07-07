@@ -1,0 +1,10 @@
+.postimagewrapper{
+  height: 450 px;
+  overflow: hidden;
+}
+
+.postimagewrapper img{
+ width: 100%;
+ max-height: 100%;
+ object-fit: cover;
+}
